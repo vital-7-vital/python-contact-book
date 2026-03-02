@@ -19,5 +19,4 @@ Simple command line contact manager written in Python.
 python contactbook.py
 
 Author: Vittal
-# the 
-### end
+
