@@ -15,7 +15,7 @@ def ser_ch():
         print("doesnt exist")
 e=1
 while(e==1):
-    choice=int (input("1 Add contact\n2 View contacts\n3 Search contact\n4 Exit"))
+    choice=int (input("1 Add contact\n2 View contacts\n3 Search contact\n4 Exit\n"))
     match choice:
         case 1:
             add_cont()
@@ -26,3 +26,4 @@ while(e==1):
         case 4:
             print("exit")
             e=e+1
+
